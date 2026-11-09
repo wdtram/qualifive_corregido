@@ -1,0 +1,11 @@
+QUALIFIVE - CORRECCION DE PANTALLA EN BLANCO Y NUEVO INICIO
+
+1. Descomprime este ZIP.
+2. En tu repositorio GitHub wdtram/qualifive, reemplaza los archivos index.html, css/style.css y js/app.js.
+3. Conserva los otros archivos: js/reminders.js, js/transport.js y data/routes.geojson.
+4. Sube los archivos respetando exactamente sus carpetas.
+5. Confirma los cambios (Commit changes).
+6. Abre https://wdtram.github.io/qualifive/ y fuerza recarga con Ctrl+F5.
+
+No borres el almacenamiento local si tienes citas de prueba que quieras conservar.
+Los recordatorios externos y rutas verificadas NO se han implementado en este cambio.
